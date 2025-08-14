@@ -1,0 +1,14 @@
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\bin\Debug\net8.0\cs_practice.exe
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\bin\Debug\net8.0\cs_practice.deps.json
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\bin\Debug\net8.0\cs_practice.runtimeconfig.json
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\bin\Debug\net8.0\cs_practice.dll
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\bin\Debug\net8.0\cs_practice.pdb
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\obj\Debug\net8.0\cs_practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\obj\Debug\net8.0\cs_practice.AssemblyInfoInputs.cache
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\obj\Debug\net8.0\cs_practice.AssemblyInfo.cs
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\obj\Debug\net8.0\cs_practice.csproj.CoreCompileInputs.cache
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\obj\Debug\net8.0\cs_practice.dll
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\obj\Debug\net8.0\refint\cs_practice.dll
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\obj\Debug\net8.0\cs_practice.pdb
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\obj\Debug\net8.0\cs_practice.genruntimeconfig.cache
+D:\CS_workspace\CS入门\C#入门案例\cs_practice\obj\Debug\net8.0\ref\cs_practice.dll
