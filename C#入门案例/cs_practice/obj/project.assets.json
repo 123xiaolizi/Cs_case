@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CS_workspace\\CS入门\\C#入门案例\\cs_practice\\cs_practice.csproj",
+      "projectUniqueName": "D:\\CS_workspace\\Cs_case\\C#入门案例\\cs_practice\\cs_practice.csproj",
       "projectName": "cs_practice",
-      "projectPath": "D:\\CS_workspace\\CS入门\\C#入门案例\\cs_practice\\cs_practice.csproj",
+      "projectPath": "D:\\CS_workspace\\Cs_case\\C#入门案例\\cs_practice\\cs_practice.csproj",
       "packagesPath": "C:\\Users\\kksk\\.nuget\\packages\\",
-      "outputPath": "D:\\CS_workspace\\CS入门\\C#入门案例\\cs_practice\\obj\\",
+      "outputPath": "D:\\CS_workspace\\Cs_case\\C#入门案例\\cs_practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

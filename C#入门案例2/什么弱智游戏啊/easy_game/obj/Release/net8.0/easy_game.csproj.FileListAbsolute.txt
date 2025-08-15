@@ -1,0 +1,15 @@
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\bin\Release\net8.0\easy_game.exe
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\bin\Release\net8.0\easy_game.deps.json
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\bin\Release\net8.0\easy_game.runtimeconfig.json
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\bin\Release\net8.0\easy_game.dll
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\bin\Release\net8.0\easy_game.pdb
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\obj\Release\net8.0\easy_game.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\obj\Release\net8.0\easy_game.AssemblyInfoInputs.cache
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\obj\Release\net8.0\easy_game.AssemblyInfo.cs
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\obj\Release\net8.0\easy_game.csproj.CoreCompileInputs.cache
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\obj\Release\net8.0\easy_game.sourcelink.json
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\obj\Release\net8.0\easy_game.dll
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\obj\Release\net8.0\refint\easy_game.dll
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\obj\Release\net8.0\easy_game.pdb
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\obj\Release\net8.0\easy_game.genruntimeconfig.cache
+D:\CS_workspace\Cs_case\C#入门案例2\什么弱智游戏啊\easy_game\obj\Release\net8.0\ref\easy_game.dll

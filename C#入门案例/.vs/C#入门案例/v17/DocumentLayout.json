@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CS_workspace\\CS\u5165\u95E8\\C#\u5165\u95E8\u6848\u4F8B\\",
+  "WorkspaceRootPath": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32AA32B0-9A57-4543-B23E-B93A911CAE54}|cs_practice\\cs_practice.csproj|d:\\cs_workspace\\cs\u5165\u95E8\\c#\u5165\u95E8\u6848\u4F8B\\cs_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32AA32B0-9A57-4543-B23E-B93A911CAE54}|cs_practice\\cs_practice.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B\\cs_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32AA32B0-9A57-4543-B23E-B93A911CAE54}|cs_practice\\cs_practice.csproj|solutionrelative:cs_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\CS\u5165\u95E8\\C#\u5165\u95E8\u6848\u4F8B\\cs_practice\\Program.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B\\cs_practice\\Program.cs",
               "RelativeDocumentMoniker": "cs_practice\\Program.cs",
-              "ToolTip": "D:\\CS_workspace\\CS\u5165\u95E8\\C#\u5165\u95E8\u6848\u4F8B\\cs_practice\\Program.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B\\cs_practice\\Program.cs",
               "RelativeToolTip": "cs_practice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T07:41:11.098Z",
               "EditorCaption": ""
