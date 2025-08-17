@@ -1,0 +1,15 @@
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\bin\Debug\net8.0\接口的练习.exe
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\bin\Debug\net8.0\接口的练习.deps.json
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\bin\Debug\net8.0\接口的练习.runtimeconfig.json
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\bin\Debug\net8.0\接口的练习.dll
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\bin\Debug\net8.0\接口的练习.pdb
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\obj\Debug\net8.0\接口的练习.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\obj\Debug\net8.0\接口的练习.AssemblyInfoInputs.cache
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\obj\Debug\net8.0\接口的练习.AssemblyInfo.cs
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\obj\Debug\net8.0\接口的练习.csproj.CoreCompileInputs.cache
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\obj\Debug\net8.0\接口的练习.sourcelink.json
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\obj\Debug\net8.0\接口的练习.dll
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\obj\Debug\net8.0\refint\接口的练习.dll
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\obj\Debug\net8.0\接口的练习.pdb
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\obj\Debug\net8.0\接口的练习.genruntimeconfig.cache
+D:\CS_workspace\Cs_case\接口练习\接口的练习\接口的练习\obj\Debug\net8.0\ref\接口的练习.dll
