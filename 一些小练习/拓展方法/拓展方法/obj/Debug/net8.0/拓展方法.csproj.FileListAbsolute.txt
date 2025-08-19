@@ -1,0 +1,15 @@
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\bin\Debug\net8.0\拓展方法.exe
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\bin\Debug\net8.0\拓展方法.deps.json
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\bin\Debug\net8.0\拓展方法.runtimeconfig.json
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\bin\Debug\net8.0\拓展方法.dll
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\bin\Debug\net8.0\拓展方法.pdb
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\obj\Debug\net8.0\拓展方法.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\obj\Debug\net8.0\拓展方法.AssemblyInfoInputs.cache
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\obj\Debug\net8.0\拓展方法.AssemblyInfo.cs
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\obj\Debug\net8.0\拓展方法.csproj.CoreCompileInputs.cache
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\obj\Debug\net8.0\拓展方法.sourcelink.json
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\obj\Debug\net8.0\拓展方法.dll
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\obj\Debug\net8.0\refint\拓展方法.dll
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\obj\Debug\net8.0\拓展方法.pdb
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\obj\Debug\net8.0\拓展方法.genruntimeconfig.cache
+D:\CS_workspace\Cs_case\一些小练习\拓展方法\拓展方法\obj\Debug\net8.0\ref\拓展方法.dll
