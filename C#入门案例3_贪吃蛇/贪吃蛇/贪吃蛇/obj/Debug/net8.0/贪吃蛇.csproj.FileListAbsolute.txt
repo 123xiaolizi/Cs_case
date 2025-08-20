@@ -1,0 +1,15 @@
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\bin\Debug\net8.0\贪吃蛇.exe
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\bin\Debug\net8.0\贪吃蛇.deps.json
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\bin\Debug\net8.0\贪吃蛇.runtimeconfig.json
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\bin\Debug\net8.0\贪吃蛇.dll
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\bin\Debug\net8.0\贪吃蛇.pdb
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\obj\Debug\net8.0\贪吃蛇.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\obj\Debug\net8.0\贪吃蛇.AssemblyInfoInputs.cache
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\obj\Debug\net8.0\贪吃蛇.AssemblyInfo.cs
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\obj\Debug\net8.0\贪吃蛇.csproj.CoreCompileInputs.cache
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\obj\Debug\net8.0\贪吃蛇.sourcelink.json
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\obj\Debug\net8.0\贪吃蛇.dll
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\obj\Debug\net8.0\refint\贪吃蛇.dll
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\obj\Debug\net8.0\贪吃蛇.pdb
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\obj\Debug\net8.0\贪吃蛇.genruntimeconfig.cache
+D:\CS_workspace\Cs_case\C#入门案例3_贪吃蛇\贪吃蛇\贪吃蛇\obj\Debug\net8.0\ref\贪吃蛇.dll
