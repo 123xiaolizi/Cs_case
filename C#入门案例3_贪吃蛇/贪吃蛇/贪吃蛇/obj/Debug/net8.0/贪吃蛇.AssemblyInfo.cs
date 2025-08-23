@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("贪吃蛇")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea734b532229223f043d5a3158c16d86a9babed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22a954a18e8364f25873e2e689981b558ef60c20")]
 [assembly: System.Reflection.AssemblyProductAttribute("贪吃蛇")]
 [assembly: System.Reflection.AssemblyTitleAttribute("贪吃蛇")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ namespace 贪吃蛇.lesson4
         Body,
         Tail
     }
-    internal class SnakeBody : IDraw
+    internal class SnakeBody : GameObject
     {
 
         public Positions pos;
@@ -22,11 +22,10 @@ namespace 贪吃蛇.lesson4
         public SnakeBody(E_Snake_Type type, int x, int y)
         {
             this.type = type;
-            pos.x = x;
-            pos.y = y; 
+            pos = new Positions(x, y);
         }
 
-        public void Draw()
+        public override void Draw()
         {
             Console.SetCursorPosition(pos.x, pos.y);
             Console.ForegroundColor = type == E_Snake_Type.Head ? ConsoleColor.Yellow : ConsoleColor.Green;

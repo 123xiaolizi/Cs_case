@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\snakebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson4\\snakebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson2\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson4\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson6\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson6\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\positions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson3\\positions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson4\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\endscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson2\\endscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\snakebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson4\\snakebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson5\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson5\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson4\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,36 +55,16 @@
       "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson3\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\positions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson3\\positions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\beginorend_basescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson2\\beginorend_basescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson2\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\beginscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson2\\beginscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\endscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson2\\endscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson1\\isceneupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\lesson1\\isceneupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|d:\\cs_workspace\\cs_case\\c#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5BDF1EA-4F58-41E8-BD08-C84125E6DD9A}|\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj|solutionrelative:\u8D2A\u5403\u86C7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,138 +86,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SnakeBody.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\SnakeBody.cs",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson4\\SnakeBody.cs",
-              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\SnakeBody.cs",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson4\\SnakeBody.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T13:55:46.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Wall.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\Wall.cs",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson4\\Wall.cs",
-              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\Wall.cs",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson4\\Wall.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T13:52:18.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Food.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\Food.cs",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson4\\Food.cs",
-              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\Food.cs",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson4\\Food.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T13:47:54.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Positions.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\Positions.cs",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson3\\Positions.cs",
-              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\Positions.cs",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson3\\Positions.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T13:28:13.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameObject.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\GameObject.cs",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson3\\GameObject.cs",
-              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\GameObject.cs",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson3\\GameObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T13:26:05.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IDraw.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\IDraw.cs",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson3\\IDraw.cs",
-              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\IDraw.cs",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson3\\IDraw.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Title": "EndScene.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\EndScene.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson2\\EndScene.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\EndScene.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson2\\EndScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T13:25:28.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BeginScene.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\BeginScene.cs",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson2\\BeginScene.cs",
-              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\BeginScene.cs",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson2\\BeginScene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T09:26:09.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GameScene.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\GameScene.cs",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson2\\GameScene.cs",
-              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\GameScene.cs",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson2\\GameScene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T09:23:05.116Z",
+              "WhenOpened": "2025-08-20T09:57:34.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BeginOrEnd_BaseScene.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\BeginOrEnd_BaseScene.cs",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson2\\BeginOrEnd_BaseScene.cs",
-              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\BeginOrEnd_BaseScene.cs",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson2\\BeginOrEnd_BaseScene.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIA9wDQAAAAAAAAAAAAAAA==",
+              "Title": "map.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson5\\map.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson5\\map.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson5\\map.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson5\\map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T08:43:01.739Z",
+              "WhenOpened": "2025-08-23T06:52:21.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Game.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson1\\Game.cs",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson1\\Game.cs",
-              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson1\\Game.cs",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson1\\Game.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T06:56:52.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "\u8D2A\u5403\u86C7",
+              "DocumentIndex": 9,
+              "Title": "\u8D2A\u5403\u86C7.csproj",
               "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj",
               "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj",
               "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7.csproj",
@@ -221,20 +125,159 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EndScene.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\EndScene.cs",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson2\\EndScene.cs",
-              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\EndScene.cs",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson2\\EndScene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "IDraw.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\IDraw.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson3\\IDraw.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\IDraw.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson3\\IDraw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T09:57:34.951Z",
+              "WhenOpened": "2025-08-20T13:25:28.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\Food.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson4\\Food.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\Food.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson4\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:47:54.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
+              "Title": "SnakeBody.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\SnakeBody.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson4\\SnakeBody.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\SnakeBody.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson4\\SnakeBody.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:55:46.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\Program.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\Program.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\Program.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:52:11.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson6\\Snake.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson6\\Snake.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson6\\Snake.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson6\\Snake.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwHMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:13:40.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\GameScene.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson2\\GameScene.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\GameScene.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson2\\GameScene.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:23:05.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson1\\Game.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson1\\Game.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson1\\Game.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson1\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:56:52.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Positions.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\Positions.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson3\\Positions.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\Positions.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson3\\Positions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:28:13.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BeginOrEnd_BaseScene.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\BeginOrEnd_BaseScene.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson2\\BeginOrEnd_BaseScene.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\BeginOrEnd_BaseScene.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson2\\BeginOrEnd_BaseScene.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA9wDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:43:01.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BeginScene.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\BeginScene.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson2\\BeginScene.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson2\\BeginScene.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson2\\BeginScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:26:09.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\Wall.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson4\\Wall.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson4\\Wall.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson4\\Wall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:52:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\GameObject.cs",
+              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson3\\GameObject.cs",
+              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson3\\GameObject.cs",
+              "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson3\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:26:05.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ISceneUpdate.cs",
               "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\lesson1\\ISceneUpdate.cs",
               "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\lesson1\\ISceneUpdate.cs",
@@ -242,21 +285,7 @@
               "RelativeToolTip": "\u8D2A\u5403\u86C7\\lesson1\\ISceneUpdate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T07:02:51.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\Program.cs",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\Program.cs",
-              "ToolTip": "D:\\CS_workspace\\Cs_case\\C#\u5165\u95E8\u6848\u4F8B3_\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\Program.cs",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T06:52:11.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T07:02:51.302Z"
             }
           ]
         }
